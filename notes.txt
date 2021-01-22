@@ -1,0 +1,9 @@
+RCC starting address = 0x40023800
+	offset = 0x30
+	new = 0x40028330
+GPIOD starting address = 0x40020C00
+	offset = 0x00
+	new = 0x40020C00
+GPIOD output address = 0x40020C00
+	offset =  0x14
+	new = 0x40020C14
